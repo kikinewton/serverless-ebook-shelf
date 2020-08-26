@@ -1,6 +1,6 @@
 # Serverless EBOOKSHELF
 
-To implement this project you need to implement a simple TODO application using AWS Lambda and Serverless framework. Search for all the `TODO:` comments in the code to find the placeholders that you need to implement.
+App for uploading pdf to an S3 bucket.
 
 # Functionality of the application
 
